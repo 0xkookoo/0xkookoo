@@ -1,5 +1,5 @@
 
-[![Twitter](https://img.shields.io/twitter/follow/Lisanaaa4?style=social)](https://twitter.com/0xkeqi)
+[![Twitter](https://img.shields.io/twitter/follow/Lisanaaa4?style=social)](https://twitter.com/Lisanaaa4)
 
 <!--
 **Lisanaaa/Lisanaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
