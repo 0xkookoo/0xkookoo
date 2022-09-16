@@ -39,7 +39,7 @@ Recently my interest mostly lies in building dapps on ethereum and other EVM-com
 <div id="menu" style="height:10px;width:1000px;">
 </div> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lisanaaa&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lisanaaa&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=solidity)](https://github.com/ethereum/solidity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lisanaaa&repo=Revenue-Based-DeFi)](https://github.com/Lisanaaa/Revenue-Based-DeFi)
