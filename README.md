@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethereum&repo=solidity)](https://github.com/ethereum/solidity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lisanaaa&repo=Revenue-Based-Defi)](https://github.com/Lisanaaa/Revenue-Based-Defi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lisanaaa&repo=Revenue-Based-DeFi)](https://github.com/Lisanaaa/Revenue-Based-DeFi)
