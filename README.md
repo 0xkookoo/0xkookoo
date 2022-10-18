@@ -4,10 +4,6 @@
   <img align="left" alt="Keqi's LinkedIn" width="25px" src="./icons/linkedin.svg" />
 </a>
 
-<a href="mailto:huangkeqi1995@gmail.com">
-  <img align="left" alt="Keqi's Email" width="25px" src="./icons/gmail.svg" />
-</a>
-
 <a href="https://twitter.com/Lisanaaa4">
   <img align="left" alt="Keqi's Twitter" width="25px" src="./icons/twitter.svg" />
 </a>
@@ -21,8 +17,6 @@ I am a passionate engineer focus on blokchain.
 I take great care in the experience, architecture, and code quality of the things I build.
 
 Recently my interest mostly lies in building dapps on ethereum and other EVM-compatible chains.
-
-- 💬 [book my time](https://calendly.com/keqihuang/45min), I'm happy to talk and help :) Hackthon is welcome!
 
 <!-- <div id="menu" style="height:320px;width:1000px;"> -->
 
