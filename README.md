@@ -22,7 +22,7 @@ I take great care in the experience, architecture, and code quality of the thing
 
 Recently my interest mostly lies in building dapps on ethereum and other EVM-compatible chains.
 
-- 💬 [book my time](https://calendly.com/keqihuang/45min), I'm happy to talk and help :) Hackthon is welcome!
+- 💬 [book my time](https://calendly.com/0xkookoo/45min), I'm happy to talk and help :) Hackthon is welcome!
 
 <!-- <div id="menu" style="height:320px;width:1000px;"> -->
 
